@@ -6,7 +6,7 @@
 * https://github.com/llisboa/FlowDoc -> documentos
 
 ## Documentos
-Sobre o projeto, soluções propostas:
+Sobre o projeto, soluções propostas(fazer download):
 
 [pdf]
 * https://github.com/llisboa/FlowDoc/blob/main/2025-03-18-0954%20Detalhes%20sobre%20o%20projeto.rtf
