@@ -5,7 +5,7 @@
 * https://github.com/llisboa/FlowDb -> scripts de criação da base de dados
 * https://github.com/llisboa/FlowDoc -> documentos
 
-## documentos
+## Documentos
 Sobre o projeto, soluções propostas:
 PDF:
 * https://github.com/llisboa/FlowDoc/blob/main/2025-03-18-0954%20Detalhes%20sobre%20o%20projeto.rtf
