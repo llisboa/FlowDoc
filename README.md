@@ -12,7 +12,7 @@ Sobre o projeto, soluções propostas:
 * https://docs.google.com/document/d/1HoieAVBnWSVAUTyYhGhGP8PzuFcqmk8Vk-4mDjqMjNc/edit?usp=sharing
 
 [pdf] (para download)
-* https://github.com/llisboa/FlowDoc/blob/main/2025-03-18-0954%20Detalhes%20sobre%20o%20projeto.rtf
+* https://github.com/llisboa/FlowDoc/blob/main/2025-03-18-0954%20Detalhes%20sobre%20o%20projeto.pdf
 
 
 <br>
