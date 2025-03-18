@@ -7,6 +7,9 @@
 
 ## documentos
 Sobre o projeto, soluções propostas:
+PDF:
+* https://github.com/llisboa/FlowDoc/blob/main/2025-03-18-0954%20Detalhes%20sobre%20o%20projeto.rtf
+RTF:
 * https://github.com/llisboa/FlowDoc/blob/main/2025-03-18-0954%20Detalhes%20sobre%20o%20projeto.rtf
 
 Desenho de arquitetura, DRAWIO:
