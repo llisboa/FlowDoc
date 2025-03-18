@@ -1,6 +1,7 @@
+Dicionário de dados, TABELAS:
 event
 code serial4 -> Código de evento sequencial.
-active bool -> Se evento está ativo ou não. Desabilitado o banco não mais receberia impacto com esse evento.
+active bool -> Se evento está ativo ou não. Desabilitado, o banco não mais receberia impacto com esse evento.
 description text -> Texto descritivo do evento. Utilizado para agrupar os lançamentos.
 allowdebit bool -> Se evento pode ser utilizado para impactar como débito.
 allowcredit bool -> Se evento pode ser utilizado para impactar como crédito.
@@ -9,7 +10,7 @@ createdat timestamptz DEFAULT now() -> Data e hora da criação.
 transaction 
 id uuid DEFAULT gen_random_uuid() -> GUID como chave para a transação, utilizado como "confirmação" de gravação.
 branch text -> Agência, formato desejável "0000". Permite string podendo ser uma agência virtual, utilizada por questões de segurança.
-account text -> Conta, formato desejável "000000000". Permite também texto, utilizada por questão de segurança.
+account text -> Conta, formato desejável "000000000". Permite também texto, utilizado por questões de segurança.
 amount numeric(15 2) -> Valor, sempre positivo pois existe o campo de tipo de lançamento: débito ou crédito.
 debitcredit varchar(1) -> Tipo de lançamento, valores válidos 'D'=Débito ou 'C'=Crédito.
 eventcode int4 -> Código do evento, campo relacionado com a tabela EVENT.
