@@ -9,13 +9,11 @@
 Sobre o projeto, soluções propostas:
 
 [googledocs]
-* https://drive.google.com/file/d/1toG8TNcCqVax8I1XkggnRpj1ns_GxESP/view?usp=sharing
+* https://docs.google.com/document/d/1HoieAVBnWSVAUTyYhGhGP8PzuFcqmk8Vk-4mDjqMjNc/edit?usp=sharing
 
 [pdf] (para download)
 * https://github.com/llisboa/FlowDoc/blob/main/2025-03-18-0954%20Detalhes%20sobre%20o%20projeto.rtf
 
-[rtf] (para download)
-* https://github.com/llisboa/FlowDoc/blob/main/2025-03-18-0954%20Detalhes%20sobre%20o%20projeto.rtf
 
 <br>
 
